@@ -5,5 +5,8 @@ package com.syg.widgettest;
  */
 public class Test {
 
-    public static String aa = "abcsdfsdf";
+    public static String aa1 = "abcsdfsdf";
+    public static String aa2 = "abcsdfsdf";
+    public static String aa3 = "abcsdfsdf";
+    public static String aa4 = "abcsdfsdf";
 }
